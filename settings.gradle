@@ -1,0 +1,2 @@
+rootProject.name = "Lab1akcelerometr"
+include ':app'
